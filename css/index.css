@@ -1,0 +1,22 @@
+.titulo_pg {
+    
+    text-shadow:12px;
+}
+.subtitulo_pg {
+    margin-bottom:20px;
+}
+.texto {
+    background-color:rgb(136, 59, 59);;
+    margin-right:150px;
+    margin-left:150px;
+    font-size:20px;
+    color:white;
+    border-radius:100px;
+    height:100vh;
+}
+.p1 {
+    width:50%;
+}
+.p2 {
+    width:50%;
+}
